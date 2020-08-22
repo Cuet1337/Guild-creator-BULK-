@@ -1,2 +1,9 @@
 # Guild-creator-BULK-
-A discord guild creator [BULK] written in Py
+# Usage
+Put ur victims in the script
+
+and run it 
+# TroubleShoot
+Install the package's/Contact the owner
+
+# Enjoy!
